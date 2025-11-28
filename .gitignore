@@ -23,6 +23,8 @@ Thumbs.db
 # Environment variables
 *.env
 .env.*
+.venv
+
 
 # Byte-compiled / optimized / DLL files
 *.python-version
